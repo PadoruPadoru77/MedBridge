@@ -24,6 +24,9 @@ By keeping the total cost under $100, Medbridge offers a dramatic price advantag
 ### LAYOUT:<br/>
 ![image_2025-07-05_154214456](https://github.com/user-attachments/assets/51ee4524-2a72-4b59-a0c4-a1b7142299a5)
 
+### Wiring Diagram:<br/>
+![MedBridge Layout_bb](https://github.com/user-attachments/assets/b37f4042-1d58-4e02-9321-a7a3773e3296)
+
 ### SOFTWARE DESCRIPTION:<br/>
 - Python - Main programming language<br/>
 - Vosk - Speech-to-text translator<br/>
